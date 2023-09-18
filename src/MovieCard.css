@@ -1,0 +1,29 @@
+.movie-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-card img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-card .movie-info {
+    margin-top: 10px;
+  }
+  
+  .movie-card h3 {
+    margin: 0;
+  }
+  
+  .movie-card p {
+    margin: 5px 0;
+  }
+  
+  .movie-card p:last-child {
+    font-weight: bold;
+  }
